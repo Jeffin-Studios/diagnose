@@ -2,11 +2,17 @@ Description
 ===========
 Detects epidermal abnormalities from a picture
 Classifies to identify skin disease
-
-
-
 Uses opencv to segment and isolate objects from an image
-Use imagenet to classify these objects https://www.tensorflow.org/tutorials/images/image_recognition
+
+Progress
+========
+Created segmentation scripts
+Created simple neural network
+
+Next Step
+=========
+Mine data to make training set
+
 
 Current issues:
 ==============
